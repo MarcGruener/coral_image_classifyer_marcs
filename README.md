@@ -6,6 +6,6 @@ Small test project that takes a picture of me with different hats and infers one
 - noMarc
 
 Project was created to test and practice the following aspect:
-- Use (teachableMachines) [https://teachablemachine.withgoogle.com]
+- Use [teachableMachines](https://teachablemachine.withgoogle.com)
 - Do a small project from front to end (data generations, labeling, training, testing, implementing)
 - Have fun
